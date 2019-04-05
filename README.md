@@ -14,7 +14,6 @@ git clone https://github.com/lontivero/WasabiPasswordFinder.git
 ## Usage
 
 ```
-``` 
 Usage: dotnet run [OPTIONS]+
 
 Options:
@@ -27,6 +26,7 @@ Options:
                                	-t single_char_test
   -H                         Show Help
   -d                         Debug logging
+``` 
 
 You can find your encryptedSecret in your `Wallet.json` file, that you have previously created with Wasabi.
 
