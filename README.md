@@ -30,11 +30,13 @@ Options:
 
 You can find your encryptedSecret in your `Wallet.json` file, that you have previously created with Wasabi.
 
+```
 Example: 
   password: badpassword
   "EncryptedSecret": "6PYLGPcpMGHPDz1DHAFGn94f8dEZ9YjMz6LyJyRqTYuZqHZU8xyfJjskK9"
 
   dotnet run -s 6PYLGPcpMGHPDz1DHAFGn94f8dEZ9YjMz6LyJyRqTYuZqHZU8xyfJjskK9 -p baDpAssword -t shift_test
+```
 
 ## NOTE
 
